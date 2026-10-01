@@ -42,6 +42,11 @@
    "date": "2026-09-30",
    "label": "Day 0 check",
    "value": 1000.0
+  },
+  {
+   "date": "2026-10-01",
+   "label": "Day 1",
+   "value": 1031.04
   }
  ],
  "wins": 2,
